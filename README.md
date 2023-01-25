@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Noah, a perpetual learner and data enthusiast working as a Data Scientist in the field of IoT Product Development in Grand Rapids, MI.
+I'm Noah, a huge dog fan, who is currently working as a Data Scientist in the field of IoT Product Development in Grand Rapids, MI.
 
 - 🔭 I’m currently working on:
   - _Computer vision models for detecting wind turbines in satellite imagery_
