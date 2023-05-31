@@ -5,13 +5,11 @@ I'm Noah Vriese, currently working as a Data Scientist in the field of IoT Produ
 - 🔭 I’m currently working on:
   - _Computer vision models for detecting wind turbines in satellite imagery_
 - 🌱 I’m currently learning:
-  - _Deep learning model development and optimization methods on Google Cloud Platform (GCP)_
+  - _Latest LLM architectures and fine-tuning workflows for enterprise use-cases_
 - 💬 Ask me about:
-  - _Implementing remote sensing data in machine learning workflows_
-  - _Supervised machine learning model development_
+  - _Model training pipeline automation, containerization, and scaling_
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/noah-vriese/)
-  - [Twitter](https://twitter.com/nvriese)
 - ⚡ Fun fact:
   - _I have an embarassingly large rock and mineral collection_ 
 
