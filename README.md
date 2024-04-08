@@ -5,9 +5,9 @@ I'm Noah Vriese, currently working as a Data Scientist in the field of IoT Produ
 - 🌱 I’m currently learning:
   - _Latest LLM architectures and agentic RAG workflows for enterprise use-cases_
 - 💬 Ask me about:
-  - _LLMs @ the edge / ETL pipelines, microservice design patterns, and scaling_
+  - _LLMs @ the edge, ETL pipelines, microservice design patterns and scaling_
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/noah-vriese/)
 - ⚡ Fun fact:
-  - _I have an embarassingly large rock and mineral collection_ 
+  - _I'm very proud of my rock and mineral collection, ask me about it sometime._ 
 
