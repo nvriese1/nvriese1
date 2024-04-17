@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Noah Vriese, currently working as a Data Scientist in the field of IoT Product Development in Portland, OR.
+I'm Noah Vriese, currently working as a Data Scientist in the field of Enterprise AI/ML Product Development in Portland, OR.
 
 - 🌱 I’m currently learning:
   - _Latest open LLM architectures and agentic RAG workflows for enterprise use-cases_
