@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I'm Noah Vriese, currently working as a Data Scientist in the field of Enterprise AI/ML Product Development in Portland, OR.
+I'm Noah Vriese, currently working as a Data Scientist in the field of enterprise vision and generative AI/ML product development in Portland, OR.
 
-- 🌱 I’m currently learning:
-  - _Latest open LLM architectures and agentic RAG workflows for enterprise use-cases_
 - 💬 Ask me about:
-  - _LLMs @ the edge, ETL pipelines, microservice design patterns and scaling_
+  - _Vision models @ the edge, ETL pipelines, microservice design patterns_
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/noah-vriese/)
 - ⚡ Fun fact:
