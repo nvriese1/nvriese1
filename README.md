@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Noah Vriese, currently working as a Senior Data Scientist in the field of enterprise vision and generative AI/ML product development in Portland, OR.
+I'm Noah Vriese, a Senior Data Scientist @ ClearObject in the field of enterprise vision and generative AI/ML product development in Portland, OR.
+
+Building Pictograph.io - the fastest way to label data and train your own computer vision models.
 
 - 💬 Ask me about:
   - _Vision models @ the edge, ETL pipelines, microservice design patterns_
