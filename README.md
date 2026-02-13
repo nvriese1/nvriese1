@@ -2,7 +2,7 @@
 
 I'm Noah Vriese, a Senior Data Scientist @ ClearObject in the field of enterprise vision and generative AI/ML product development in Portland, OR.
 
-Building [Pictograph.io](https://www.pictograph.io) - the fastest way to label data and train your own computer vision models.
+Building [Pictograph.io](https://pictograph.io) - the fastest way to label data and train your own computer vision models.
 
 - 💬 Ask me about:
   - _Vision models @ the edge, ETL pipelines, microservice design patterns_
