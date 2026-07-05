@@ -9,5 +9,5 @@ Building [Pictograph.io](https://pictograph.io) - the fastest way to label data 
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/noah-vriese/)
 - ⚡ Fun fact:
-  - _I'm very proud of my rock and mineral collection, ask me about it sometime._ 
+  - _I'm very proud of my rock and mineral collection._ 
 
